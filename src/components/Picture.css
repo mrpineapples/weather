@@ -1,0 +1,17 @@
+.forecast {
+  color: white;
+}
+
+#icon {
+  display: inline-block;
+  vertical-align: middle;
+  width: 3rem;
+  margin-right: .5rem;
+}
+
+#words {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 2rem;
+  padding-right: 1rem;
+}

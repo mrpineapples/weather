@@ -1,0 +1,14 @@
+.weather-info {
+  color: white;
+  margin-top: 3rem;
+  vertical-align: middle;
+}
+
+#city {
+  font-size: 4.5rem;
+  font-weight: bold;
+}
+
+#temperature {
+  font-size: 6rem;
+}

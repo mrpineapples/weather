@@ -1,0 +1,23 @@
+.searchbar {
+  margin-top: 10%;
+  opacity: 0.7;
+}
+
+.input, .submit {
+    background-color: white;
+    display: inline-block;
+    padding: 0.625rem 0.95rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    box-shadow: 0.125rem 0.125rem 0.375rem #000;
+}
+
+.input {
+    border: 1px solid transparent;
+    margin-right: .7rem;
+}
+
+.submit {
+  color: #6b6c6d;
+  border: 1px solid transparent;
+}
